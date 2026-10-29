@@ -1,0 +1,18 @@
+# Python temporary files
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# ZIP archives
+*.zip
